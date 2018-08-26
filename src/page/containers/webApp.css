@@ -1,0 +1,19 @@
+.panel {
+  box-shadow:  0 15px 35px rgba(50,50,93,.1),0 5px 15px rgba(0,0,0,.07);
+  padding: 0px;
+}
+
+.panel-body {
+  padding: 25px;
+}
+
+.page-sidebar {
+  box-shadow:  0 15px 35px rgba(50,50,93,.1),0 5px 15px rgba(0,0,0,.07);
+}
+
+.panel-heading {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, .03);
+  border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
